@@ -1,9 +1,9 @@
-list = ['iqra' , 'aisha' , 'nima' , 'khadijah', 'sana'] 
-print(list[0])
-print(list[1])
-print(list[2])
-print(list[3])
-print(list[4])
-print(list[5])
+
+word1 = "Coding"
+word2 = "is"
+word3 ="Cool"
+# Use string concatenation to combine the variables and print the phrase
+print(word1 + "  " + word2 + "  " + word3)
+
 
 
