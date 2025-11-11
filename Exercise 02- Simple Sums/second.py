@@ -1,5 +1,12 @@
-num1=8
-num2=10
+#Exercise 02 - simple sums with user input
 
-combined_value=num1+num2
-print(combined_value)
+#Step 1:Ask the user for two numbers
+num1 = int(input("Enter the first number:"))
+num2 = int(input("Enter the second number:"))
+
+#step 2:Calculate the sum 
+sum_result = num1 + num2
+
+#step 3: print the resukt
+print("the sum is:", sum_result)
+
